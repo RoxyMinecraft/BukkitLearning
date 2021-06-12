@@ -1,3 +1,6 @@
+# 这个仓库是为了学习所创建
+
+
 Bukkit
 ======
 A plugin API for [Minecraft](https://minecraft.net/) servers, currently maintained by [SpigotMC](http://www.spigotmc.org/).
